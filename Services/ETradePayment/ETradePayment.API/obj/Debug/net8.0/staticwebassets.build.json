@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SmgTL2MplOOheIpqUrO4BIiflXwa2Bn7ERqApc4TM04=",
+  "Source": "ETradePayment.API",
+  "BasePath": "_content/ETradePayment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ETradePayment.API.props" />
+</Project>

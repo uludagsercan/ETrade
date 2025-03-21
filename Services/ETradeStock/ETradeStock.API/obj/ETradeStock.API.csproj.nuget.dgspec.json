@@ -1,0 +1,433 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/ETradeStock.API/ETradeStock.API.csproj": {}
+  },
+  "projects": {
+    "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj",
+        "projectName": "BusShared",
+        "projectPath": "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj",
+        "packagesPath": "/Users/sercanuludag/.nuget/packages/",
+        "outputPath": "/Users/sercanuludag/Desktop/ETrade/BusShared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sercanuludag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj",
+        "packagesPath": "/Users/sercanuludag/.nuget/packages/",
+        "outputPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sercanuludag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj"
+              },
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj",
+        "packagesPath": "/Users/sercanuludag/.nuget/packages/",
+        "outputPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sercanuludag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.2-pre02, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/ETradeStock.API/ETradeStock.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/ETradeStock.API/ETradeStock.API.csproj",
+        "projectName": "ETradeStock.API",
+        "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/ETradeStock.API/ETradeStock.API.csproj",
+        "packagesPath": "/Users/sercanuludag/.nuget/packages/",
+        "outputPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/ETradeStock.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sercanuludag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/BusShared/BusShared.csproj"
+              },
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj"
+              },
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj"
+              },
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Infrastructure/Infrastructure.csproj"
+              },
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/sercanuludag/.nuget/packages/",
+        "outputPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sercanuludag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/sercanuludag/.nuget/packages/",
+        "outputPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sercanuludag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Application/Application.csproj"
+              },
+              "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj": {
+                "projectPath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeStock/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/Application.deps.json
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/Application.dll
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/Application.pdb
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/Domain.dll
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/Domain.pdb
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.dll
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/Application.pdb
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/BusShared.dll
+/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Application/bin/Debug/net8.0/BusShared.pdb

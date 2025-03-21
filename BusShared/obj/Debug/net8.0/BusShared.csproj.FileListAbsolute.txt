@@ -1,0 +1,12 @@
+/Users/sercanuludag/Desktop/ETrade/BusShared/bin/Debug/net8.0/BusShared.deps.json
+/Users/sercanuludag/Desktop/ETrade/BusShared/bin/Debug/net8.0/BusShared.dll
+/Users/sercanuludag/Desktop/ETrade/BusShared/bin/Debug/net8.0/BusShared.pdb
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.csproj.AssemblyReference.cache
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.AssemblyInfoInputs.cache
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.AssemblyInfo.cs
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.csproj.CoreCompileInputs.cache
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.dll
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/refint/BusShared.dll
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/BusShared.pdb
+/Users/sercanuludag/Desktop/ETrade/BusShared/obj/Debug/net8.0/ref/BusShared.dll

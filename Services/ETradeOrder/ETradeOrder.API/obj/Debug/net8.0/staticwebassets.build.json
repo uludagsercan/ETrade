@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "axXyiSaGMlTaYIRR5pcIvsjeGKsL52vnlJFPr2VBPqg=",
+  "Source": "ETradeOrder.API",
+  "BasePath": "_content/ETradeOrder.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

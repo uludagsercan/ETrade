@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2QendFAHI0=",
+  "success": true,
+  "projectFilePath": "/Users/sercanuludag/Desktop/ETrade/Services/ETradeOrder/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/sercanuludag/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/Users/sercanuludag/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
